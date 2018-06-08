@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">GRE Quiz App</string>
+
+    <!--Q1 and answer-->
+    <string name="q1_header">Question 1</string>
+    <string name="q1">Just as different people can have very different personalities, so too can pets-even those of the same species and breed possess varied _____.</string>
+    <string name="a1_1">initiations</string>
+    <string name="a1_2">implementations</string>
+    <string name="a1_3">aptitudes</string>
+    <string name="a1_4">rationalizations</string>
+    <string name="a1_5">temperaments</string>
+
+    <!--Q2 and answer-->
+    <string name="q2_header">Question 2</string>
+    <string name="q2">If one were asked who transmitted the first radio broadcast of the human voice, one might guess the _____ inventor Guglielmo Marconi, but in fact the feat was accomplished by the much less well-known Reginald Fessenden.</string>
+    <string name="a2_1">infamous</string>
+    <string name="a2_2">renowned</string>
+    <string name="a2_3">contingent</string>
+    <string name="a2_4">cogent</string>
+    <string name="a2_5">insistent</string>
+
+    <!--Q3 and answer-->
+    <string name="q3_header">Question 3</string>
+    <string name="q3">Although it does contain some pioneering ideas, one would hardly characterize the work as _____.</string>
+    <string name="a3_1">orthodox</string>
+    <string name="a3_2">eccentric</string>
+    <string name="a3_3">original</string>
+    <string name="a3_4">trifling</string>
+    <string name="a3_5">conventional</string>
+    <string name="a3_6">innovative</string>
+
+    <!--Q4 and answer-->
+    <string name="q4_header">Question 4</string>
+    <string name="q4">Overlarge, uneven, and ultimately disappointing, the retrospective exhibition seems too much like special pleading for a forgotten painter of real but ______ talents.</string>
+    <string name="a4_1">limited</string>
+    <string name="a4_2">partial</string>
+    <string name="a4_3">undiscovered</string>
+    <string name="a4_4">circumscribed</string>
+    <string name="a4_5">prosaic</string>
+    <string name="a4_6">hidden</string>
+
+    <!--Q5-->
+    <string name="q5_header">Question 5</string>
+    <string name="q5">Tuk weighs 60 percent more than Kim, Lee weighs 50 percent less than Tuk, and Pat weighs 25 percent more than Lee. If Pat weighs 126 pounds, what is Kim`s weight? _____</string>
+
+    <!--Q5-->
+    <string name="q6_header">Question 6</string>
+    <string name="q6">For the large cars sold at an auction that is summarized in the table above, what was the average sale price per car? $_____</string>
+
+    <!--instruction-->
+    <string name="instruction1">Select one answer choice</string>
+    <string name="instruction2">Select two answer choices</string>
+
+    <!--button-->
+    <string name="submit">submit</string>
+    <string name="reset">reset</string>
+
+</resources>
